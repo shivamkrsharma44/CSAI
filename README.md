@@ -1,7 +1,7 @@
 # CSAI
 
-Team Name: Team Rocket
-Team Members: 
-        - Amit Sharma
-        - Ekansh Chauhan
-        - Shivam Kumar Sharma
+Team Name: Team Rocket <br>
+Team Members: <br>
+        - Amit Sharma <br>
+        - Ekansh Chauhan <br>
+        - Shivam Kumar Sharma <br>
